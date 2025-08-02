@@ -1,0 +1,20 @@
+## Interface: 30300
+## Title: PlayerStats+
+## Notes: Advanced player statistics tracking addon for WotLK 3.3.5a
+## Author: Hide1nbush1
+## Version: 1.0
+## SavedVariablesPerCharacter: PlayerStatsDB
+## DefaultState: enabled
+## LoadOnDemand: 0
+
+## Required Libraries
+# Ace3 Libraries
+embeds.xml
+
+## Core Files
+Core.lua
+Sessions.lua
+Utils.lua
+Statistics.lua
+MinimapButton.lua
+Settings.lua
